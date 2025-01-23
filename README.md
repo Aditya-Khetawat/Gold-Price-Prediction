@@ -18,14 +18,6 @@ The "Gold Price Prediction" project aims to develop a model that can accurately 
 
 - **Model Evaluation:** The project evaluates the performance of the regression model using evaluation metrics such as mean squared error (MSE) and mean absolute error (MAE). These metrics quantify the differences between the predicted and actual gold prices, providing insights into the model's accuracy and precision. Additionally, visualizations such as line plots are created to compare the predicted prices against the actual prices.
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository: `gh repo clone MYoussef885/Gold_Price_Prediction`
-2. Install the required libraries: `If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.`
-3. Launch Google Colab: `https://colab.research.google.com/`
-4. Open the `Gold_Price_Prediction.ipynb` file and run the notebook cells sequentially.
 
 ## Conclusion
 
